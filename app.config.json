@@ -1,0 +1,26 @@
+{
+  "locales": [
+    {
+      "isDefault": true,
+      "displayName": "en",
+      "urlPrefix": "en",
+      "crystallizeCatalogueLanguage": "en",
+      "appLanguage": "en-US",
+      "defaultCurrency": "USD"
+    },
+    {
+      "displayName": "de",
+      "urlPrefix": "de",
+      "crystallizeCatalogueLanguage": "de",
+      "appLanguage": "en-US",
+      "defaultCurrency": "USD"
+    },
+    {
+      "displayName": "fr",
+      "urlPrefix": "fr",
+      "crystallizeCatalogueLanguage": "fr",
+      "appLanguage": "en-US",
+      "defaultCurrency": "USD"
+    }
+  ]
+}
